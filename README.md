@@ -205,7 +205,7 @@ Thanks to [BrowserStack](https://www.browserstack.com) for providing us browser 
 
 ## License
 
-BSD 3-clause
+BSD 10-clause
 
 
 [Documentation]: <https://grapesjs.com/docs/>
